@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ahmedqani Abdi"
-  avatar : "/assets/images/headshot.png"
+  avatar : "/assets/images/profimage.jpeg"
   bio    : "Capivated by the allure of IT but confined to DEVSECOPS and Cyber Security,I guess we can't have it all ."
   links:
     - label: "Website"
