@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "chronoligical resume"
 permalink: /resume/
 layout: posts
 author_profile: true
