@@ -1,7 +1,7 @@
 ---
 title: "chronoligical resume"
 permalink: /resume/
-layout: posts
+layout: categories
 author_profile: true
 ---
 RESUME
