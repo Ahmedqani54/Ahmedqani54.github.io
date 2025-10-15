@@ -15,29 +15,18 @@ DNS (Domain Name System) provides a simple way for us to communicate with device
 
 ---
 
-## 🛡️ Tatua Digital Resilience Center  
-**Role:** Consultant  
-Developed a 5-chapter **Cyber Hygiene Curriculum** to promote safe digital practices among citizens.  
-- Created awareness materials and e-learning content  
-- Engaged through KICTANet with community feedback loops  
-- [Learn More](https://www.kictanet.or.ke)
+## 🛡️ WEB REQUEST  
+**Role:** Author  
+This module introduces key fundamentals that must be mastered to be successful in information security. Understanding web requests is essential for understanding how web applications work, which is necessary before attempting to attack or secure any web application. This makes this module the very first step in web application penetration testing.  
+- [Lab Link](https://academy.hackthebox.com/module/details/35)
 
 ---
 
-## 📊 [Cybersecurity Youth Employability Dashboard](https://github.com/YOUR_USERNAME/cyber-employment-dashboard)  
-**Role:** Developer  
-Interactive data visualization dashboard showing employment metrics and trends from the Cyber Shujaa program.  
-- Built with Python, Plotly Dash, and Pandas  
-- Analyzed placement outcomes, gender parity, and institutional outreach  
-- [View on GitHub](https://github.com/YOUR_USERNAME/cyber-employment-dashboard)
+## NETWORK TRAFFIC
+**Role:** AUTHOR  
+This module introduces network traffic analysis in a general sense for both offensive and defensive security practitioners. Defenders can use network traffic analysis to collect and analyze real-time and historical data of what is happening on the network. Network traffic analysis can also be used by both sides to search for vulnerable protocols and ciphers in use.
+- [Lab Link](https://academy.hackthebox.com/module/details/81)
 
 ---
 
-## 🔍 [Digital Forensics Toolkit](https://github.com/YOUR_USERNAME/forensics-toolkit)  
-**Role:** Developer & Trainer  
-Toolkit for teaching basic forensics techniques to undergraduate students.  
-- Features modules on memory forensics, file carving, and OSINT  
-- Includes downloadable lab exercises and walkthroughs  
-- [View on GitHub](https://github.com/YOUR_USERNAME/forensics-toolkit)
 
----
